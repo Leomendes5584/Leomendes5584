@@ -1,10 +1,13 @@
 ## Olá, Seja bem vindo! Eu sou Leonardo Medens ✌️
 <br/>
 
-- Um apaixonado pela técnologia! <br/>
-- Estudante de inglês<br/>
-- Cruso sistema da informação<br/>
-- Meu objetivo é sempre aprender<br/>
+Meu objetivo é a primeira oportunidade como QA
+
+- Cursando Sistemas da Informação <br/>
+- Cursando Inglês<br/>
+- O aprendizado contínuo é a chave para o sucesso na vida.<br/>
+
+Trablhei 2 anos como suporte técnico Pleno, Atualmente estou estagiando como TI pela SEDUC e busco minha primeira colocação como Qa estágio/junior.
 
 <br/>
 
