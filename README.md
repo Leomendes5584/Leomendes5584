@@ -1,4 +1,4 @@
-# Olá, Seja bem vindo! Eu sou Leonardo Medens ✌️
+# Olá, Seja bem vindo! Eu sou Leonardo Mendes ✌️
 <br/>
 
 ### Meu objetivo é a primeira oportunidade como QA
