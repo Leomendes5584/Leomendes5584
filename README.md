@@ -1,13 +1,11 @@
 # Olá, Seja bem vindo! Eu sou Leonardo Mendes ✌️
 <br/>
 
-### Meu objetivo é a primeira oportunidade como QA
+### Meu objetivo é a primeira oportunidade como Dev
 
 - Cursando Sistemas da Informação <br/>
 - Cursando Inglês<br/>
 - O aprendizado contínuo é a chave para o sucesso na vida.<br/>
-
-Trabalhei 2 anos como suporte técnico pleno. Atualmente, estou estagiando na área de TI pela SEDUC e estou em busca da minha primeira oportunidade como estagiário/júnior em QA.
 
 <br/>
 
@@ -35,4 +33,4 @@ Trabalhei 2 anos como suporte técnico pleno. Atualmente, estou estagiando na á
 <br/>
 
 ## Contato : 
-leonardoqa6650@gmail.com
+leonardo.menddess@gmail.com
